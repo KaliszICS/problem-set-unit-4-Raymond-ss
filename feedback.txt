@@ -1,0 +1,12 @@
+K(30%): 100
+I(30%): 90
+C(10%): 100
+A(30%): 93
+94.9% of 90 - 85.41%
+
+
+Make sure to ensure that users can't enturn non-integers to their input.
+Also remember to clear your scanner after using nextInt()
+You don't need to check if your random number is less than 20 or more than 0 since they are already ensured by your random number generator.
+50% should congratulate them.
+Otherwise good work.
